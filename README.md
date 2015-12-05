@@ -1,2 +1,2 @@
-# Bookmark-Startpage
-A startpage for Chrome with organizable bookmarks
+# start.page
+A startpage for Chrome with organizable bookmarks, and rss
